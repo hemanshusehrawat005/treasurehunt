@@ -1,1 +1,1 @@
-# treasurehunt
+# treasure-collection
